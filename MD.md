@@ -1,5 +1,8 @@
 # Markdown 教學
 
+animal
+
+
 ## 基礎格式
 標題：
 
@@ -244,3 +247,8 @@ data.to_csv('full_student_data.csv', index=False)
 |-|-|-|
 |Bob|20|男|
 |Amy|16|女|
+
+## 表格
+|名字|
+|-|-|-|
+|Larry|
