@@ -4,6 +4,6 @@
 
 #Python训练
 
-|name|age|weight|
+|name|age|favourite|
 |-|-|-|
-|Larry|
+|Larry|14|
